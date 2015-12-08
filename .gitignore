@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+Debug
+ipch
+ConsoleApplication1.sdf
+ConsoleApplication1.v12.suo
